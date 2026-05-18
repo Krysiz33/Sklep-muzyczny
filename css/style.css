@@ -1,0 +1,7 @@
+body { font-family: sans-serif; margin: 20px; }
+
+nav { margin-bottom: 20px; }
+nav a { margin-right: 10px; }
+
+.alert-error { color: red; }
+.alert-success { color: green; }
